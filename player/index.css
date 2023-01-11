@@ -26,9 +26,9 @@ hr {
 }
 
 marquee {
-    padding-top: 10px;
-    padding-right: 10px;
-    width: 80%;
+    padding-top: 15px;
+    margin-right: 10px;
+    width: 85%;
     float: right;
 }
 
