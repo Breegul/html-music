@@ -1,0 +1,31 @@
+#screen {
+    background-color: #8FA7D6;
+    height: 640px;
+    width: 360px;
+    display: flexbox;
+}
+
+#back {
+    height: 30px;
+    width: 30px;
+    padding: 10px 0px 0px 5px;
+}
+
+#vinyl {
+    width: 100%;
+}
+
+#wav {
+    width: 95%;
+    margin: 25px 2.5%;
+}
+
+hr {
+    margin: 0px 10px;
+}
+
+marquee {
+    padding-top: 10px;
+    width: 50%;
+    float: right;
+}
