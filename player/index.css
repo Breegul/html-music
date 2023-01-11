@@ -42,3 +42,67 @@ section section img {
     height: 60px;
     justify-content: center;
 }
+
+
+#gear {
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+#gear:hover {
+    -webkit-transform: scale(1.2);
+	transform: scale(1.2);
+    cursor: pointer;
+}
+
+#backplay {
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+#backplay:hover {
+    -webkit-transform: scale(1.2);
+	transform: scale(1.2);
+    cursor: pointer;
+}
+
+#next {
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+#next:hover {
+    -webkit-transform: scale(1.2);
+	transform: scale(1.2);
+    cursor: pointer;
+}
+
+
+#pause {
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+#pause:hover {
+    -webkit-transform: scale(1.2);
+	transform: scale(1.2);
+    cursor: pointer;
+}
+
+#playlist {
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+#playlist:hover {
+    -webkit-transform: scale(1.2);
+	transform: scale(1.2);
+    cursor: pointer;
+}
