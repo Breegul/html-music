@@ -1,5 +1,5 @@
 #screen {
-    background-color: #8FA7D6;
+    background-color: #0081C9;
     height: 640px;
     width: 360px;
     display: flexbox;
@@ -13,6 +13,7 @@
 
 #vinyl {
     width: 100%;
+    padding: 10px;
 }
 
 #wav {
@@ -29,4 +30,15 @@ marquee {
     padding-right: 10px;
     width: 80%;
     float: right;
+}
+
+section section {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 25px 0px;
+}
+
+section section img {
+    height: 60px;
+    justify-content: center;
 }
