@@ -82,6 +82,16 @@ a {
 
 .smi {
     margin: 20px 30px 20px 30px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.smi:hover {
+    -webkit-transform: scale(1.5);
+	transform: scale(1.5);
+    cursor: pointer;
 }
 
 
